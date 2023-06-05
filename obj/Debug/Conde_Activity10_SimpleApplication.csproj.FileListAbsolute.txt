@@ -1,0 +1,26 @@
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\bin\Debug\Conde_Activity10_SimpleApplication.exe.config
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\bin\Debug\Conde_Activity10_SimpleApplication.exe
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\bin\Debug\Conde_Activity10_SimpleApplication.pdb
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.csproj.AssemblyReference.cache
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.LoginUI.resources
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.Properties.Resources.resources
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.csproj.GenerateResource.cache
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.csproj.CoreCompileInputs.cache
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.exe
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.pdb
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.Form1.resources
+C:\Users\maccr\Downloads\0 - College\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.IncomeExpenseUI.resources
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\bin\Debug\Conde_Activity10_SimpleApplication.exe.config
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\bin\Debug\Conde_Activity10_SimpleApplication.exe
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\bin\Debug\Conde_Activity10_SimpleApplication.pdb
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.csproj.AssemblyReference.cache
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.Form1.resources
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.IncomeExpenseUI.resources
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.LoginUI.resources
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.Properties.Resources.resources
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.csproj.GenerateResource.cache
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.csproj.CoreCompileInputs.cache
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.exe
+C:\Users\maccr\Downloads\0 - College\1st Year\COPRO2\Conde_Activity10_SimpleApplication\Conde_Activity10_SimpleApplication\obj\Debug\Conde_Activity10_SimpleApplication.pdb
